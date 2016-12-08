@@ -1,0 +1,10 @@
+default:
+    suites:
+        default:
+            contexts:
+                - OpenAccountFeatureContext
+                - CloseAccountFeatureContext
+                - DisplayBalanceFeatureContext
+                - DepositMoneyFeatureContext
+                - WithdrawMoneyFeatureContext
+                - OverdraftFeatureContext

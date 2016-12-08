@@ -1,0 +1,14 @@
+{
+
+    "require-dev": {
+        "behat/behat": "^3.2",
+        "phpunit/phpunit": "5.5.*",
+        "mockery/mockery": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "App": "src/"
+        }
+    }
+
+}
